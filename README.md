@@ -6,3 +6,4 @@ The excel Project include:
 - Formula Excel Template
 - Conditional Formating
 - Excel Chart
+- Data Cleaning In Excel
